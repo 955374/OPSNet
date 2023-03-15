@@ -1,4 +1,5 @@
 # Object Preserving Siamese Network for Single Object Tracking on Point Clouds
+Other pretrained models and codes for testing on Waymo will be released after paper acception.
 
 ## Environment settings
 * Create an environment for OPSNet
